@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <Bug Name> Application crashes upon clicking the SAVE button while creating a new user </Bug Name>
 <Bug ID> 67653655 </Bug ID>
 <Severity> critical </Severity>
